@@ -1,2 +1,2 @@
 # Project
-Norasys Project and thingboard
+Norasys Project and thingboard also
